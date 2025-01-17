@@ -266,7 +266,11 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(Q2A-G)": "PWR_BRKOUT",
+      "unconnected-(J2-VTref-Pad1)": "JTAG_PWR",
+      "unconnected-(Q2B-D-Pad3)": "JTAG_PWR"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
