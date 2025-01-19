@@ -23,10 +23,15 @@
 
 Ireng is custom Black Magic Probe Based on STM32F103RCT. Only for fun 😙 and learning about debugging in microcontroller.
 
+<details>
+  <summary>expands me!!</summary>
+    <img src="./docs/ireng-pcb.png"/> <br/>
+</details>
+
 ## 🌳 TODO LOG
 
-- Add SPI Flash from windbond, jumat 17 januari 2025 at 19:51
-- re-check schematic,  jumat 17 januari 2025 at 19:51
+- ~~Add SPI Flash from windbond, jumat 17 januari 2025 at 19:51~~, no pin left for spi and dont want to change pinout of original schematic.
+- ~~re-check schematic,  jumat 17 januari 2025 at 19:51~~
 - add usb type c, and use usb micro b as backup,  jumat 17 januari 2025 at 19:51
 
 ## 🧱 Reference 
